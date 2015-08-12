@@ -1,0 +1,27 @@
+C:\work\GitHub\python\dist\EasyRuler.exe:166: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
+Traceback (most recent call last):
+  File "EasyRuler.py", line 98, in OnRightDown
+  File "wx\_core.pyo", line 10638, in CaptureMouse
+wx._core.PyAssertionError: C++ assertion "!wxMouseCapture::IsInCaptureStack(this)" failed at ..\..\src\common\wincmn.cpp(3271) in wxWindowBase::CaptureMouse(): Recapturing the mouse in the same window?
+Traceback (most recent call last):
+  File "EasyRuler.py", line 98, in OnRightDown
+  File "wx\_core.pyo", line 10638, in CaptureMouse
+wx._core.PyAssertionError: C++ assertion "!wxMouseCapture::IsInCaptureStack(this)" failed at ..\..\src\common\wincmn.cpp(3271) in wxWindowBase::CaptureMouse(): Recapturing the mouse in the same window?
+C:\work\GitHub\python\dist\EasyRuler.exe:166: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
+Traceback (most recent call last):
+  File "EasyRuler.py", line 98, in OnRightDown
+  File "wx\_core.pyo", line 10638, in CaptureMouse
+wx._core.PyAssertionError: C++ assertion "!wxMouseCapture::IsInCaptureStack(this)" failed at ..\..\src\common\wincmn.cpp(3271) in wxWindowBase::CaptureMouse(): Recapturing the mouse in the same window?
+C:\work\GitHub\python\dist\EasyRuler.exe:166: wxPyDeprecationWarning: Using deprecated class PySimpleApp. 
+Traceback (most recent call last):
+  File "EasyRuler.py", line 98, in OnRightDown
+  File "wx\_core.pyo", line 10638, in CaptureMouse
+wx._core.PyAssertionError: C++ assertion "!wxMouseCapture::IsInCaptureStack(this)" failed at ..\..\src\common\wincmn.cpp(3271) in wxWindowBase::CaptureMouse(): Recapturing the mouse in the same window?
+Traceback (most recent call last):
+  File "EasyRuler.py", line 98, in OnRightDown
+  File "wx\_core.pyo", line 10638, in CaptureMouse
+wx._core.PyAssertionError: C++ assertion "!wxMouseCapture::IsInCaptureStack(this)" failed at ..\..\src\common\wincmn.cpp(3271) in wxWindowBase::CaptureMouse(): Recapturing the mouse in the same window?
+Traceback (most recent call last):
+  File "EasyRuler.py", line 98, in OnRightDown
+  File "wx\_core.pyo", line 10638, in CaptureMouse
+wx._core.PyAssertionError: C++ assertion "!wxMouseCapture::IsInCaptureStack(this)" failed at ..\..\src\common\wincmn.cpp(3271) in wxWindowBase::CaptureMouse(): Recapturing the mouse in the same window?

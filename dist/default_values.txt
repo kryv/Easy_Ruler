@@ -1,0 +1,10 @@
+ruler_color = "#FFFFFF"
+ruler_square = (440,440)
+ruler_landscape = (540,40)
+ruler_portrait = (40,540)
+ruler_init_pos = (400,400)
+ruler_transparent = 150
+ruler_interval = 50
+ruler_line_color = "#505050"
+ruler_line_width = 1
+ruler_maxsize = (2000,2000)
